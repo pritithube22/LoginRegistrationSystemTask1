@@ -9,7 +9,7 @@ public class RegistrationLoginDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RegistrationLoginDemoApplication.class, args);
 		System.out.println("Success.......");
-		//  http://localhost:8080/register
+		
 	}
 
 }
